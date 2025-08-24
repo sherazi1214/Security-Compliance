@@ -1,8 +1,8 @@
 # Security-Compliance
 
-## **[Compliance Monitoring](https://github.com/sherazi1214/Compliance-Monitoring-/blob/main/README.md)**
+## 1. **[Compliance Monitoring](https://github.com/sherazi1214/Compliance-Monitoring-/blob/main/README.md)**
 
-## Privacy Principle
+## 2. Privacy Principle
 
 **English:**
 Privacy principles are the fundamental rules that guide how organizations handle personal data. They ensure transparency, fairness, and protection of individual rights.
